@@ -1,0 +1,4 @@
+/*
+* Please, update your bootstrap-fileinput in NPM. You should add one line to package.json file to fix compiling error (by Gulp):
+*   "main": "js/fileinput.min.js"
+*/
